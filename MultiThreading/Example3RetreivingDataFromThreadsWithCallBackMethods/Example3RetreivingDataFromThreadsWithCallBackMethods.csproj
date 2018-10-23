@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2E64955-E7D0-42F4-BD09-72F92439B849}</ProjectGuid>
+    <ProjectGuid>{2BD87826-8A2D-4420-997F-2FEE10919E17}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Example1</RootNamespace>
-    <AssemblyName>Example1</AssemblyName>
+    <RootNamespace>Example3RetreivingDataFromThreadsWithCallBackMethods</RootNamespace>
+    <AssemblyName>Example3RetreivingDataFromThreadsWithCallBackMethods</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
